@@ -1,0 +1,11 @@
+C:\Users\zakae\OneDrive\Documents\AsYouCommand\bin\Debug\netcoreapp3.1\AsYouCommand.exe
+C:\Users\zakae\OneDrive\Documents\AsYouCommand\bin\Debug\netcoreapp3.1\AsYouCommand.deps.json
+C:\Users\zakae\OneDrive\Documents\AsYouCommand\bin\Debug\netcoreapp3.1\AsYouCommand.runtimeconfig.json
+C:\Users\zakae\OneDrive\Documents\AsYouCommand\bin\Debug\netcoreapp3.1\AsYouCommand.runtimeconfig.dev.json
+C:\Users\zakae\OneDrive\Documents\AsYouCommand\bin\Debug\netcoreapp3.1\AsYouCommand.dll
+C:\Users\zakae\OneDrive\Documents\AsYouCommand\bin\Debug\netcoreapp3.1\AsYouCommand.pdb
+C:\Users\zakae\OneDrive\Documents\AsYouCommand\obj\Debug\netcoreapp3.1\AsYouCommand.csprojAssemblyReference.cache
+C:\Users\zakae\OneDrive\Documents\AsYouCommand\obj\Debug\netcoreapp3.1\AsYouCommand.AssemblyInfoInputs.cache
+C:\Users\zakae\OneDrive\Documents\AsYouCommand\obj\Debug\netcoreapp3.1\AsYouCommand.AssemblyInfo.cs
+C:\Users\zakae\OneDrive\Documents\AsYouCommand\obj\Debug\netcoreapp3.1\AsYouCommand.dll
+C:\Users\zakae\OneDrive\Documents\AsYouCommand\obj\Debug\netcoreapp3.1\AsYouCommand.pdb

@@ -1,0 +1,11 @@
+C:\Users\zakae\OneDrive\Documents\Inherit\bin\Debug\netcoreapp3.1\Inherit.exe
+C:\Users\zakae\OneDrive\Documents\Inherit\bin\Debug\netcoreapp3.1\Inherit.deps.json
+C:\Users\zakae\OneDrive\Documents\Inherit\bin\Debug\netcoreapp3.1\Inherit.runtimeconfig.json
+C:\Users\zakae\OneDrive\Documents\Inherit\bin\Debug\netcoreapp3.1\Inherit.runtimeconfig.dev.json
+C:\Users\zakae\OneDrive\Documents\Inherit\bin\Debug\netcoreapp3.1\Inherit.dll
+C:\Users\zakae\OneDrive\Documents\Inherit\bin\Debug\netcoreapp3.1\Inherit.pdb
+C:\Users\zakae\OneDrive\Documents\Inherit\obj\Debug\netcoreapp3.1\Inherit.csprojAssemblyReference.cache
+C:\Users\zakae\OneDrive\Documents\Inherit\obj\Debug\netcoreapp3.1\Inherit.AssemblyInfoInputs.cache
+C:\Users\zakae\OneDrive\Documents\Inherit\obj\Debug\netcoreapp3.1\Inherit.AssemblyInfo.cs
+C:\Users\zakae\OneDrive\Documents\Inherit\obj\Debug\netcoreapp3.1\Inherit.dll
+C:\Users\zakae\OneDrive\Documents\Inherit\obj\Debug\netcoreapp3.1\Inherit.pdb
