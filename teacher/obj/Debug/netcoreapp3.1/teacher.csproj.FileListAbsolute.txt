@@ -1,0 +1,11 @@
+C:\Users\zakae\OneDrive\Documents\teacher\bin\Debug\netcoreapp3.1\teacher.exe
+C:\Users\zakae\OneDrive\Documents\teacher\bin\Debug\netcoreapp3.1\teacher.deps.json
+C:\Users\zakae\OneDrive\Documents\teacher\bin\Debug\netcoreapp3.1\teacher.runtimeconfig.json
+C:\Users\zakae\OneDrive\Documents\teacher\bin\Debug\netcoreapp3.1\teacher.runtimeconfig.dev.json
+C:\Users\zakae\OneDrive\Documents\teacher\bin\Debug\netcoreapp3.1\teacher.dll
+C:\Users\zakae\OneDrive\Documents\teacher\bin\Debug\netcoreapp3.1\teacher.pdb
+C:\Users\zakae\OneDrive\Documents\teacher\obj\Debug\netcoreapp3.1\teacher.csprojAssemblyReference.cache
+C:\Users\zakae\OneDrive\Documents\teacher\obj\Debug\netcoreapp3.1\teacher.AssemblyInfoInputs.cache
+C:\Users\zakae\OneDrive\Documents\teacher\obj\Debug\netcoreapp3.1\teacher.AssemblyInfo.cs
+C:\Users\zakae\OneDrive\Documents\teacher\obj\Debug\netcoreapp3.1\teacher.dll
+C:\Users\zakae\OneDrive\Documents\teacher\obj\Debug\netcoreapp3.1\teacher.pdb

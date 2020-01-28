@@ -1,0 +1,22 @@
+C:\Users\Thomas Berrens\Desktop\mediacollege\bewijzenmap\periode1.2\PRO2\Programmeren\les2whatami\bin\Debug\netcoreapp3.0\les2whatami.exe
+C:\Users\Thomas Berrens\Desktop\mediacollege\bewijzenmap\periode1.2\PRO2\Programmeren\les2whatami\bin\Debug\netcoreapp3.0\les2whatami.deps.json
+C:\Users\Thomas Berrens\Desktop\mediacollege\bewijzenmap\periode1.2\PRO2\Programmeren\les2whatami\bin\Debug\netcoreapp3.0\les2whatami.runtimeconfig.json
+C:\Users\Thomas Berrens\Desktop\mediacollege\bewijzenmap\periode1.2\PRO2\Programmeren\les2whatami\bin\Debug\netcoreapp3.0\les2whatami.runtimeconfig.dev.json
+C:\Users\Thomas Berrens\Desktop\mediacollege\bewijzenmap\periode1.2\PRO2\Programmeren\les2whatami\bin\Debug\netcoreapp3.0\les2whatami.dll
+C:\Users\Thomas Berrens\Desktop\mediacollege\bewijzenmap\periode1.2\PRO2\Programmeren\les2whatami\bin\Debug\netcoreapp3.0\les2whatami.pdb
+C:\Users\Thomas Berrens\Desktop\mediacollege\bewijzenmap\periode1.2\PRO2\Programmeren\les2whatami\obj\Debug\netcoreapp3.0\les2whatami.csprojAssemblyReference.cache
+C:\Users\Thomas Berrens\Desktop\mediacollege\bewijzenmap\periode1.2\PRO2\Programmeren\les2whatami\obj\Debug\netcoreapp3.0\les2whatami.AssemblyInfoInputs.cache
+C:\Users\Thomas Berrens\Desktop\mediacollege\bewijzenmap\periode1.2\PRO2\Programmeren\les2whatami\obj\Debug\netcoreapp3.0\les2whatami.AssemblyInfo.cs
+C:\Users\Thomas Berrens\Desktop\mediacollege\bewijzenmap\periode1.2\PRO2\Programmeren\les2whatami\obj\Debug\netcoreapp3.0\les2whatami.dll
+C:\Users\Thomas Berrens\Desktop\mediacollege\bewijzenmap\periode1.2\PRO2\Programmeren\les2whatami\obj\Debug\netcoreapp3.0\les2whatami.pdb
+C:\Users\zakae\OneDrive\Documents\WhatAmI\Les2WhatAmI\bin\Debug\netcoreapp3.0\les2whatami.exe
+C:\Users\zakae\OneDrive\Documents\WhatAmI\Les2WhatAmI\bin\Debug\netcoreapp3.0\les2whatami.deps.json
+C:\Users\zakae\OneDrive\Documents\WhatAmI\Les2WhatAmI\bin\Debug\netcoreapp3.0\les2whatami.runtimeconfig.json
+C:\Users\zakae\OneDrive\Documents\WhatAmI\Les2WhatAmI\bin\Debug\netcoreapp3.0\les2whatami.runtimeconfig.dev.json
+C:\Users\zakae\OneDrive\Documents\WhatAmI\Les2WhatAmI\bin\Debug\netcoreapp3.0\les2whatami.dll
+C:\Users\zakae\OneDrive\Documents\WhatAmI\Les2WhatAmI\bin\Debug\netcoreapp3.0\les2whatami.pdb
+C:\Users\zakae\OneDrive\Documents\WhatAmI\Les2WhatAmI\obj\Debug\netcoreapp3.0\les2whatami.csprojAssemblyReference.cache
+C:\Users\zakae\OneDrive\Documents\WhatAmI\Les2WhatAmI\obj\Debug\netcoreapp3.0\les2whatami.AssemblyInfoInputs.cache
+C:\Users\zakae\OneDrive\Documents\WhatAmI\Les2WhatAmI\obj\Debug\netcoreapp3.0\les2whatami.AssemblyInfo.cs
+C:\Users\zakae\OneDrive\Documents\WhatAmI\Les2WhatAmI\obj\Debug\netcoreapp3.0\les2whatami.dll
+C:\Users\zakae\OneDrive\Documents\WhatAmI\Les2WhatAmI\obj\Debug\netcoreapp3.0\les2whatami.pdb

@@ -1,0 +1,11 @@
+C:\Users\zakae\OneDrive\Documents\SteamWriter\obj\Debug\netcoreapp3.1\SteamWriter.csprojAssemblyReference.cache
+C:\Users\zakae\OneDrive\Documents\SteamWriter\obj\Debug\netcoreapp3.1\SteamWriter.AssemblyInfoInputs.cache
+C:\Users\zakae\OneDrive\Documents\SteamWriter\obj\Debug\netcoreapp3.1\SteamWriter.AssemblyInfo.cs
+C:\Users\zakae\OneDrive\Documents\SteamWriter\bin\Debug\netcoreapp3.1\SteamWriter.exe
+C:\Users\zakae\OneDrive\Documents\SteamWriter\bin\Debug\netcoreapp3.1\SteamWriter.deps.json
+C:\Users\zakae\OneDrive\Documents\SteamWriter\bin\Debug\netcoreapp3.1\SteamWriter.runtimeconfig.json
+C:\Users\zakae\OneDrive\Documents\SteamWriter\bin\Debug\netcoreapp3.1\SteamWriter.runtimeconfig.dev.json
+C:\Users\zakae\OneDrive\Documents\SteamWriter\bin\Debug\netcoreapp3.1\SteamWriter.dll
+C:\Users\zakae\OneDrive\Documents\SteamWriter\bin\Debug\netcoreapp3.1\SteamWriter.pdb
+C:\Users\zakae\OneDrive\Documents\SteamWriter\obj\Debug\netcoreapp3.1\SteamWriter.dll
+C:\Users\zakae\OneDrive\Documents\SteamWriter\obj\Debug\netcoreapp3.1\SteamWriter.pdb
