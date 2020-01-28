@@ -1,0 +1,25 @@
+- Wat kan de speler allemaal?
+Lopen, rondkijken, wapens schieten, herladen, springen en items oppakken
+- Hoe bestuur je de speler(s)?
+met WASD en met de muis. Je kan crouchen met SHIFT en rennen met CTRL. JE kan ook van wapen switchen met 123.
+
+
+- Waar bestaat de omgeving uit?
+Het bestaat uit een "Dorp" waar je slechterikken moet verslaan met je wapen die je kan oppakken.
+
+
+- Welke andere objecten zijn er (bijv. vijanden en obstakels)?
+De vijanden zijn een groep terroristen die je proberen te vangen en te vermoorden. JE kan ook op de huizen staan en je kan ook gedood worden door turrets.
+
+
+- Welke interactie is er tussen de speler en de andere objecten?
+Je kan wapens(pistol, ar, sniper, rocket launcher en een mes) oppakken en je kan ook deuren openen.
+
+
+- Wanneer kun je winnen?
+Als alle terroristen dood zijn
+
+
+- Wanneer kun je verliezen?
+Als al je health op nul is.
+

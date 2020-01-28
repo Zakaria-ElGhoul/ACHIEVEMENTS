@@ -1,0 +1,69 @@
+DVTA
+-------------------------------------------------
+DVTA:B2:L1 --- It's Fabulously made 		X
+DVTA:B2:L1 --- Get Rekt! 			X
+DVTA:B2:L1 --- Everything in control! 		X
+DVTA:B2:L2 --- VFX Guru				X
+DVTA:B2:L2 --- BEAM!				X
+DVTA:B2:L2 --- SsssssMOKIN'!!!			X
+DVTA:B2:L3 --- I'm flattened...			X
+DVTA:B2:L3 --- i like to move it move it	X
+DVTA:B2:L3 --- Pack it up guys!			X
+DVTA:B2:L4 --- It feels so lightweighted	X
+DVTA:B2:L4 --- process it afterwards....	X
+DVTA:B2:L4 --- Focus you moron!			X
+DVTA:B2:L5 --- I can finally see!		X
+
+DVTS
+-------------------------------------------------
+DVTS:B2:L1 Taking Flight			X
+DVTS:B2:L1 Mouse, camera, ACTION!		X
+DVTS:B2:L1 Punch it				X
+DVTS:B2:L2 Weapons hot				X
+DVTS:B2:L2 Pick me up song			X
+DVTS:B2:L2 Dissapearing act			X
+DVTS:B2:L3 Walk away				X
+DVTS:B2:L3 Cover me, reloading!			X	
+DVTS:B2:L3 Get down Mr President		X
+DVTS:B2:L4 Is this recursion?			X
+DVTS:B2:L4 Dunk squad				X
+DVTS:B2:L4 Dimension Traveller			X
+DVTS:B2:L4 It's dangerous to go alone, take this!mee bezig
+DVTS:B2:L5 Play with friends!			X
+DVTS:B2:L5 Look at all angles			X
+
+PRO
+-------------------------------------------------
+PRO:B2:L1 --- StreamWriter function		X
+PRO:B2:L1 --- As You Command			X
+PRO:B2:L1 --- Simple Calculator			X
+PRO:B2:L2 --- What Am I?			X 
+PRO:B2:L2 --- Add an Instance of a class	X
+PRO:B2:L3 --- Population Control		X
+PRO:B2:L3 --- Kill a monster
+PRO:B2:L4 --- You Don't Own Me!			X
+PRO:B2:L4 --- Overload & Override
+PRO:B2:L4 --- Meet the parents			mee bezig
+PRO:B2:L5 --- Got You In My Sight
+PRO:B2:L5 --- Package it!
+PRO:B2:Bonus --- TimeBomb			Mee Bezig
+
+DIP
+-------------------------------------------------
+DIP:B2:L1 --- Brainstorm			X
+DIP:B2:L1 --- Breakdown				X
+DIP:B2:L1 --- One Page
+DIP:B2:L2 --- Finding the facts			X
+DIP:B2L2 --- Game Potential			X
+DIP:B2:L2 --- Wanna play?!			X
+DIP:B2:L2 --- Post Mortem
+DIP:B2:L3 --- Concrete Design
+DIP:B2:L3 --- Use Case				X
+DIP:B2:L3 --- Activity Diagram			X
+DIP:B2:L3 --- Flow				X
+DIP:B2:L4 --- Any Unity Tool			X
+DIP:B2:L4 --- Reverse design a tool		
+DIP:B2:L4 --- VS Extensions			X
+DIP:B2:L4 --- Ohhhhh Snap!			X
+
+Next Scene
